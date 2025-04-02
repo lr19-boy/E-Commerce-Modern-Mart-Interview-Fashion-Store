@@ -91,5 +91,5 @@ For API-based interactions, the following endpoints are available:
 - `GET /admin/products` - Manage products (Admin only)
 
 ## Contact
-For any issues, contact us at [support@example.com](mailto:lazarusrolando399@gmail.com).
+For any issues, contact us at [lazarusrolando399@gmail.com](mailto:lazarusrolando399@gmail.com).
 
